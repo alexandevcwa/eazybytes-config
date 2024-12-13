@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to Accounts Microservice QA Profile"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}14ef5a15d6c45ba5ea87644a248dd2984616180cfcf6ab59cbd0599ad580fc0dd5585068ceaffab43b041820e0070f7d"
