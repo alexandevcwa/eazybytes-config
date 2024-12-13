@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to Cards Microservice QA Profile"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}6eb080bb839b0ccc3626cc30d69d2920b29e24ff765fbb68007b7de6af54f30d"
