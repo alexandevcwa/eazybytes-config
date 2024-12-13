@@ -5,7 +5,7 @@ loans:
   message: "Hey, welcome to EazyBank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    email: "{cipher}2e6562fb23bda338fec3d0161d7cb6e34df773f0d89c78b334c441c5713126f2566d9e0a48d0aad1f30e59d3ba1b2f9e"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
